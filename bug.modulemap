@@ -1,0 +1,6 @@
+module indirect_header2 {
+  header "indirect_header2.h"
+}
+module indirect_header {
+  header "indirect_header.h"
+}
